@@ -10,5 +10,5 @@ more detailed
 https://www.instructables.com/Arduino-As-ISP-and-Arduino-Bootloaders/
 
   <a href="https://youtu.be/C5j2-d_aC8I">https://youtu.be/C5j2-d_aC8I</a>
-    ![github](https://github.com/James-workshop/Joule-Thief/blob/main/cover_photo%202.jpg "Youtube Cover Photo")
+    ![github](https://github.com/James-workshop/ArduinoISP/blob/main/Cover%20Photo%202.jpg "Youtube Cover Photo")
 
