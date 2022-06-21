@@ -7,7 +7,7 @@ Arduino ISP turns your Arduino into an in-circuit programmer to re-program ATmeg
 For ease of use, I refer to Arduino.cc(https://docs.arduino.cc/built-in-examples/arduino-isp/ArduinoISP), made an adapter
 ![github](https://github.com/James-workshop/ArduinoISP/blob/main/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202022-06-22%2002.59.17.png)
 
-![github](https://github.com/James-workshop/Joule-Thief/blob/main/2021-10-29%2001.50.52.png "Schematic")
+![github](https://github.com/James-workshop/ArduinoISP/blob/main/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202022-06-04%2019.25.22.png "Schematic")
 <BR><BR><BR><BR>
 ## PCB
 I made a PCB at JLCPCB.com, which makes it very easy to make!
